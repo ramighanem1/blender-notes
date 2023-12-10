@@ -5,6 +5,9 @@
 | Topic | Link |
 |-------|------|
 | Save rendered image around object | [URL](./ImportantCode/renderImageAroundObject.py) |
+| Blender Materials with Python Code | [URL](./ImportantCode/BlenderMaterials.py) |
+
+
 
 ## learning scripts : 
 
